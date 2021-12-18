@@ -1,12 +1,3 @@
-/* Codded by Phaticusthiccy
-eva artificial intelligence was codded by Phaticusthiccy
-also 90% of thise code is done by Phaticusthiccy
-
-re-coded or modified by afnanplk
-to bring new ai
-*/
-
-
 const MyPnky = require('../events');
 const ffmpeg = require('fluent-ffmpeg');
 const fs = require('fs');
