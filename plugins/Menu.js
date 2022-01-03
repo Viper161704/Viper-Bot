@@ -8,7 +8,6 @@ const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const fs = require("fs")
-const zara = require('../zara');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
 if (config.WORKTYPE == 'private') {
