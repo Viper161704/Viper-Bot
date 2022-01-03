@@ -77,9 +77,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart pinky",
+            "RESTART_DESC": "Restart ʟɪᴢᴀ🧚🏻‍♂️ᴍᴡᴏʟ",
             "RESTART_MSG": "ʀᴇꜱᴛᴀʀᴛɪɴɢ ᴘɪɴᴋʏ",
-            "SHUTDOWN_DESC": "Shutdown pinky",
+            "SHUTDOWN_DESC": "Shutdown ʟɪᴢᴀ🧚🏻‍♂️ᴍᴡᴏʟ",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -527,7 +527,7 @@
             "CM_DESC": "Get a compliment.",
             "NOT_FOUNDAC": "*Invalid Request*",
             "CM": "Hey,",
-            "BOT_DESC": "Chat with Pinky.\n Use .molu <message>",
+            "BOT_DESC": "Chat with ʟɪᴢᴀ🧚🏻‍♂️ᴍᴡᴏʟ.\n Use .molu <message>",
             "BOT": ":",
             "JOKE_DESC": "Get a random joke.",
             "DEVICE": "get the details of given mobile phone",     
@@ -593,7 +593,7 @@
             "M_AUT": "Music Author:"
         },
         "lyrics": {
-            "LY_DESC": "Pinky will find the lyrics of the song.",
+            "LY_DESC": "ʟɪᴢᴀ🧚🏻‍♂️ᴍᴡᴏʟ will find the lyrics of the song.",
             "NEED": "\n```You Must Write Any Song!```\n",
             "SLY": "Lyrics:",
             "AUT": "Song Owner:",
