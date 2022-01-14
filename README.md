@@ -21,13 +21,13 @@ Project created by <a href="https://github.com/HMser">HMser</a> to make it publi
 ----
 
   <p align="center">
-  <a href="https://github.com/HMser/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/HMser/lastpink?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/HMser/Pinky ">
+    <img src="https://img.shields.io/github/repo-size/HMser/Pinky?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/HMser/followers"><img title="Followers" src="https://img.shields.io/github/followers/HMser?color=red&style=flat-circle"></a>
-<a href="https://github.com/HMser/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HMser/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/HMser/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HMser/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/HMser/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HMser/lastpink?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/HMser/Pinky/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HMser/Pinky?color=red&style=flat-square"></a>
+<a href="https://github.com/HMser/Pinky/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HMser/Pinky?color=red&style=flat-square"></a>
+<a href="https://github.com/HMser/Pinky/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HMser/Pinky?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
