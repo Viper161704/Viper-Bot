@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "PINKY_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+            "description": "Type here yours HMser-QR Session.",
             "required": true
         },
         "SUDO": {
