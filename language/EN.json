@@ -130,7 +130,7 @@
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye bye && bye#see ya```",
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-        },
+        
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
             "NEED_REPLY": "```Please respond to a user's message!```",
