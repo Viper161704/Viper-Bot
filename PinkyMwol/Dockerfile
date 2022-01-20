@@ -4,6 +4,7 @@ RUN git clone https://github.com/HMser/Pinky /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 RUN yarn install --no-audit
 RUN git clone https://github.com/HMser/uploads
+RUN git clone https://github.com/HMser/Media-1
 RUN cp -R /root/Utils/* /root/WhatsAsenaDuplicated 
 RUN npm install supervisor -g
 CMD ["node", "bot.js"]
