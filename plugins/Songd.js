@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
-re coded and edited by afnanplk
+re coded and edited by hm
 */
 
 const Asena = require('../events');
@@ -32,7 +32,7 @@ const Language = require('../language');
 const Lang = Language.getString('scrapers');
 const LOAD_ING = "```Downloading media...```"
 if (config.STANDPLK == 'off' || config.STANDPLK == 'OFF') {
-Asena.addCommand({pattern: 'need ?(.*)', fromMe: false, desc: Lang.GET_DESC}, (async (message, match) => { 
+Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: Lang.GET_DESC}, (async (message, match) => { 
 
         if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_SOME,MessageType.text);    
         if (!match[1].includes('mp3') && match[1].includes('youtu.be') || match[1].includes('youtube.com')) {
