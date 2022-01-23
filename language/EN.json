@@ -197,7 +197,7 @@
             "NEED_TEXT_SING": "*Tell me which song to sing !*\n*Example:* ```.sing open your wings```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "GET_DESC": "Instagram youtube downloader",
-            "NEED_SOME": "Give me link \n example: .get <instagram or youtube link here>. \n\n to download youtube song (audio only) \n example: .get shape of you \n    or    \n.get https://www.youtube.com/watch?v=t1r_tmgQago mp3",
+            "NEED_SOME": "Give me link \n example: .get <instagram or youtube link here>. \n\n to download youtube song (audio only) \n example: .get shape of you \n    or    \n.get https://youtu.be/_QOmXA2QxV0 mp3",
             "LINK_TEXT": "The given link or text",
             "NO_SPRT": "Is not found or not supported",
             "DOWNLOADING_SONG": "ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
