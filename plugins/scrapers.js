@@ -381,7 +381,7 @@ if (config.WORKTYPE == 'private') {
             });
     }));
     
-    MyPnky.addCommand({pattern: 'number', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
+    MyPnky.addCommand({pattern: 'nmber', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
 
             const p_lk = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
@@ -1018,7 +1018,7 @@ else if (config.WORKTYPE == 'public') {
           )
       },
     )
-      MyPnky.addCommand({pattern: 'number', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
+      MyPnky.addCommand({pattern: 'nmber', fromMe: false, desc: Lang.NUMBER}, (async (message, match) => {
 
             const p_lk = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
