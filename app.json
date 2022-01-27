@@ -1,7 +1,7 @@
 {
     "name": "LIZA MWOL BY HM",
     "description": "Liza Mwol - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.imgur.com/qm8nBAi.jpeg",
+    "logo": "https://i.ibb.co/cvyPtps/QL.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/HMser/Queen-Liza",
     "website":   "under maintenance",
@@ -159,7 +159,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! use {pp} if you want to add profile picture also add {qt} if you want to add qoutes in your welcome message",
             "required": false,
-            "value": "https://i.imgur.com/qm8nBAi.jpeg i am alive  \n\n ```coded by HM Ser```\n\n```{qt}```"
+            "value": "{pp} \n╭─────────────\n│ ʜᴇʏ ᴜsᴇʀ \n│          ɪᴛs ᴍᴇ Qᴜᴇᴇɴ Lɪᴢᴀ\n│ 🏳️  ᴅoɴ'т cᴀʟʟ ᴘʟs       \n│ 〄 ᴅᴇᴠᴇʟᴏᴘᴇʀ  : ʜᴍ\n│ 〄 ᴠᴇʀsɪᴏɴ       : 1.9.9\n│ 〄 ᴀʟɪᴠᴇ Tɪᴍᴇ  : 7 ᴀᴍ - 11 ᴘᴍ\n│ 〄 ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪsʜ\n│ 〄 ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│ 〄 ᴀɪ ʙᴏᴛ          : ᴘɪɴᴋʏ\n│\n│      ▎▍▌▌▉▏▎▌▉▐▏▌▎\n│      ▎▍▌▌▉▏▎▌▉▐▏▌▎\n│      ⁹  ⁹  ⁴     ⁴  ⁰    ⁰  ⁴  ⁰    ²  ⁷  ²  ²\n│      ᴄ ʀ ᴇ ᴀ ᴛ ᴇ ᴅ   ʙ ʏ   ʜ ᴍ\n╰──────────────\n{time}"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
