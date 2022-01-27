@@ -5,8 +5,6 @@ plk
 const MyPnky = require('../events');
 const {MessageType,Mimetype} = require('@adiwajshing/baileys');
 const translatte = require('translatte');
-const config = require('../config');
-const Pinky = require('../pinky');
 const LanguageDetect = require('languagedetect');
 const lngDetector = new LanguageDetect();
 const Heroku = require('heroku-client');
