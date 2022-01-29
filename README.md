@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/HMser">HMser</a> to make it publi
 
 ```
   
-pinky - pinky Userbot is Open Source software open to development. 
+Queen Liza - Queen Liza Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -47,24 +47,6 @@ Marketing WhatsAsena for money, making it available or having any material value
 the user is responsible.
 ```
 
-
-## Setup
-<div align="center">
-
-  ### Simple Method
-  
-[![Deploy](https://www.brainswig.com/imgs/ai/clickhere.gif)](https://pinkybot.yolasite.com/)
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HMser/Luttappi-QR-1)
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HMser/Pinky)  
-     </div>
-<br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
 
 ## F.A.Q
 Answer a few frequently asked questions;
