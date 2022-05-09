@@ -3,8 +3,8 @@
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
+[![Run on Repl.it](st/s.png)](https://replit.com/@afnanplk/PinkyMwol-QR)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HMser/Queen-liza)   
+[![Deploy](st/d.png)](https://heroku.com/deploy?template=https://github.com/HMser/Queen-liza)   
  
   </div>
