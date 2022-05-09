@@ -17,7 +17,16 @@ Project created by <a href="https://github.com/HMser">HMser</a> to make it publi
         Reserved |
     <br> 
 </p>
+## Setup
+<div align="center">
 
+  ### Simple Method
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HMser/Queen-liza)   
+ 
+  </div>
 ----
 
   <p align="center">
