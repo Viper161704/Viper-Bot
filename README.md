@@ -17,7 +17,13 @@ Project created by <a href="https://github.com/HMser">HMser</a> to make it publi
         Reserved |
     <br> 
 </p>
-## Setup
+<div align="left"
+### What is New Queen Liza ?
+•300+ BGM s 
+•fast response
+•AI chatbot
+•customisable logo and name
+</div>
 <div align="center">
 
   ### Simple Method
