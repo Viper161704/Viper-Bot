@@ -10,7 +10,7 @@ Julie.addCommand({ pattern: 'insta ?(.*)', fromMe: false, desc: "Downloads from 
     const { status, type, data } = await insta(match[1])
     if (!status) return await message.sendMessage('not found')
     await message.client.sendMessage(message.jid, LOAD_ING, MessageType.text, { quoted: message.data });
-    if (type === 'image') return await message.sendMessage(data, MessageType.image, { caption: "Made By ʟɪᴢᴀ🧚🏻‍♂️ᴍᴡᴏʟ", quoted: message.data })
-    if (type === 'video') return await message.sendMessage(data, MessageType.video, { caption: "Made By ʟɪᴢᴀ🧚🏻‍♂️ᴍᴡᴏʟ", quoted: message.data })
+    if (type === 'image') return await message.sendMessage(data, MessageType.image, { caption: "Made By VIPER", quoted: message.data })
+    if (type === 'video') return await message.sendMessage(data, MessageType.video, { caption: "Made By VIPER", quoted: message.data })
 });
     //lyfe00011-farhan_dqz
