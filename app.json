@@ -1,15 +1,15 @@
 {
-    "name": "Qᴜᴇᴇɴ Lɪᴢᴀ BY HM",
-    "description": "Qᴜᴇᴇɴ Lɪᴢᴀ - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "name": "𝙑𝙄𝙋𝙀𝙍 𝘽𝙊𝙏 𝘽𝙔 𝘼𝘿𝘼𝙍𝙎𝙃",
+    "description": " - rꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴠɪᴘᴇʀe-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.ibb.co/cvyPtps/QL.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/HMser/Queen-Liza",
+    "repository": "https://github.com/Viper161704/Viper-Bot",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
     "env": {
         "PINKY_SESSION": {
-            "description": "Type here yours HMser-QR Session.",
+            "description": "Type here yours VIPERser-QR Session.",
             "required": true
         },
         "SUDO": {
@@ -159,7 +159,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! use {pp} if you want to add profile picture also add {qt} if you want to add qoutes in your welcome message",
             "required": false,
-            "value": "{pp} \n╭─────────────\n│ ʜᴇʏ ᴜsᴇʀ \n│          ɪᴛs ᴍᴇ Qᴜᴇᴇɴ Lɪᴢᴀ\n│ 🏳️  ᴅoɴ'т cᴀʟʟ ᴘʟs       \n│ 〄 ᴅᴇᴠᴇʟᴏᴘᴇʀ  : ʜᴍ\n│ 〄 ᴠᴇʀsɪᴏɴ       : 1.9.9\n│ 〄 ᴀʟɪᴠᴇ Tɪᴍᴇ  : 7 ᴀᴍ - 11 ᴘᴍ\n│ 〄 ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪsʜ\n│ 〄 ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│ 〄 ᴀɪ ʙᴏᴛ          : ᴘɪɴᴋʏ\n│\n│      ▎▍▌▌▉▏▎▌▉▐▏▌▎\n│      ▎▍▌▌▉▏▎▌▉▐▏▌▎\n│      ⁹  ⁹  ⁴     ⁴  ⁰    ⁰  ⁴  ⁰    ²  ⁷  ²  ²\n│      ᴄ ʀ ᴇ ᴀ ᴛ ᴇ ᴅ   ʙ ʏ   ʜ ᴍ\n╰──────────────\n{time}"
+            "value": "{pp} \n╭─────────────\n│ ʜᴇʏ ᴜsᴇʀ \n│          ɪƬ͢͢͢s ᴍᴇ νιρєя☆\n│ 🏳️  ᴅoɴ'т cᴀʟʟ ᴘʟs       \n│ 〄 ᴅᴇᴠᴇʟᴏᴘᴇʀ  : VIPER\n│ 〄 ᴠᴇʀsɪᴏɴ       : 1.9.9\n│ 〄 ᴀʟɪᴠᴇ Tɪᴍᴇ  : 7 ᴀᴍ - 11 ᴘᴍ\n│ 〄 ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪsʜ\n│ 〄 ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│ 〄 ᴀɪ ʙᴏᴛ          : ᴘɪɴᴋʏ\n│\n│      ▎▍▌▌▉▏▎▌▉▐▏▌▎\n│      ▎▍▌▌▉▏▎▌▉▐▏▌▎\n│      ᴄ ʀ ᴇ ᴀ ᴛ ᴇ ᴅ   ʙ ʏ   ᴠɪᴘᴇʀ\n╰──────────────\n{time}"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
