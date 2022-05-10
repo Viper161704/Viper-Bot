@@ -10,7 +10,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-asena.addCommand({pattern: 'HM', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
+asena.addCommand({pattern: 'VIPER', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -24,11 +24,11 @@ asena.addCommand({pattern: 'HM', fromMe: true, deleteCommand: true, desc: GM,}, 
 
     }));
 
-asena.addCommand({pattern: 'Lisa', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
+asena.addCommand({pattern: 'VIPER', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
         var r_text = new Array ();
 
-        r_text[1] = "Remember My Name Is Liza😏";
+        r_text[1] = "Remember My Name Is Viper😏";
 
         var i = Math.floor(2*Math.random())
 
@@ -42,7 +42,7 @@ asena.addCommand({pattern: 'Lisa', fromMe: true, deleteCommand: true, desc: GN,}
 
     if (Config.WORKTYPE == 'public') {
 
-        asena.addCommand({pattern: 'HM', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
+        asena.addCommand({pattern: 'VIPER', fromMe: true, deleteCommand: true, desc: GM,}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -56,11 +56,11 @@ asena.addCommand({pattern: 'Lisa', fromMe: true, deleteCommand: true, desc: GN,}
 
     }));
 
-asena.addCommand({pattern: 'Lisa', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
+asena.addCommand({pattern: 'VIPER', fromMe: true, deleteCommand: true, desc: GN,}, (async (message, match) => {
 
         var r_text = new Array ();
 
-        r_text[1] = "Remember My Name Is Liza😏";
+        r_text[1] = "Remember My Name Is Viper😏";
 
         var i = Math.floor(2*Math.random())
 
